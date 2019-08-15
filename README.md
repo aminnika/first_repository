@@ -1,5 +1,7 @@
 # First Repository
 
- Demo Repository for Intro to Git and GitHub
+ Demo Repository for 
+Intro to Git and GitHub
 
- Dummy files and Analysis
+ * `data/`: dummy data files
+ * `Analysis.txt` and `Notes.txt`: Dummy files and Analysis
